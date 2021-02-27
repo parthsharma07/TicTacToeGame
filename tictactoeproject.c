@@ -74,7 +74,7 @@
         printf("\t\t\t----+----+---\n");
         printf("\t\t\t  %c | %c  | %c  \n\n", data[6], data[7], data[8]);
         if (winner) {
-                printf("Player %d is the winner. Congrats!!\n", player);
+                printf("Player %d is the winner. Congratulations!!\n", player);
         } else {
                 printf("Match draw.. Best of luck for both\n");
         }
